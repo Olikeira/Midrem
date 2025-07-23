@@ -1,0 +1,137 @@
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe.config
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.pdb
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Form1.resources
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Properties.Resources.resources
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.CopyComplete
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.exe
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.pdb
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe.manifest
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.application
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.exe.manifest
+C:\Users\lucas\source\repos\n sei mais o que fazer\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.application
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Form1.resources
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Properties.Resources.resources
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.exe
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.pdb
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe.config
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe.manifest
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.application
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.pdb
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.exe.manifest
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.application
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.CopyComplete
+C:\Users\lucas\Downloads\trabalho do cocozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Form2.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe.config
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe.manifest
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.application
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.pdb
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Form1.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Form2.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Form3.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Properties.Resources.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.exe.manifest
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.application
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.CopyComplete
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.exe
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.pdb
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.doresusuario.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.frmdores.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.PrimeirosSocorros.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.engasgamentoPS.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.queimaduras.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.VidMassagemCardiaca.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\Interop.WMPLib.dll
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.ResolveComReference.cache
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\bin\Debug\Interop.WMPLib.dll
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.VidMassagemCardiaca2.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.paradaCard.resources
+C:\Users\lucas\Downloads\trabalho do elviozao\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.ConvulsForm.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe.config
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe.manifest
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.application
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.exe
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\bin\Debug\n sei mais o que fazer.pdb
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\bin\Debug\Interop.WMPLib.dll
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\Interop.WMPLib.dll
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.ResolveComReference.cache
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.engasgamentoPS.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Form1.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Form2.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Form3.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.frmdores.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.paradaCard.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.ConvulsForm.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.PrimeirosSocorros.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Properties.Resources.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.doresusuario.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.queimaduras.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.VidMassagemCardiaca.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.VidMassagemCardiaca2.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.exe.manifest
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.application
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.csproj.CopyComplete
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.exe
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n sei mais o que fazer.pdb
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.DoresTipos.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.RemediosDorCabeça.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Infecções.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.infBactérias.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.infvirus.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.inffungos.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.infparasitas.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.cortesform.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.DisfForm.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Diabtipo1.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.Diabtipo2.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.engasgamentoForm.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.hipertensaoForm.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.inflamaForm.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.OsteoForm.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.InfartoForm.resources
+C:\Users\lucas\Downloads\TESTE\n sei mais o que fazer\obj\Debug\n_sei_mais_o_que_fazer.insufCardio.resources

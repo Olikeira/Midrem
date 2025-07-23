@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label6.Text" xml:space="preserve">
+    <value>A osteoporose é uma doença causada pela diminuição da massa óssea, deixando os ossos mais frágeis e aumentando, assim, o risco de fraturas na coluna, no braço, no quadril ou no fêmur, que é o osso da coxa.
+
+Sendo uma doença silenciosa, a osteoporose geralmente não causa sintomas. No entanto, à medida que os ossos ficam enfraquecidos, algumas fraturas podem ocorrer causando sintomas como dor na coluna, postura curvada e diminuição da altura. Saiba reconhecer alguns sintomas da osteoporose.
+
+Apesar da osteoporose não ter cura, o tratamento tem o objetivo de melhorar a qualidade de vida da pessoa e diminuir o risco de fraturas, podendo incluir exercícios físicos e o uso de suplementos e medicamentos que ajudam a melhorar a reabsorção de cálcio e formar a massa óssea.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Doenças endócrinas, como diabetes ou hiperparatireoidismo;
+Deficiência de cálcio e/ou vitamina D;
+Sedentarismo;
+Menopausa;
+Alimentação inadequada;
+Tabagismo;
+Anorexia nervosa;
+Alcoolismo;
+Uso de alguns tipos de medicamentos;
+Deficiência na produção de hormônios.
+Além disso, algumas doenças também podem aumentar o risco do desenvolvimento da osteoporose, como câncer, HIV, artrite reumatoide, hemofilia, insuficiência renal e talassemia.</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>A osteoporose é causada pela diminuição da massa óssea, deixando os ossos mais frágeis, estando muito relacionada com o envelhecimento das células dos ossos, podendo acontecer principalmente em homens e mulheres após os 50 anos.
+
+Outras causas que também podem favorecer o desenvolvimento da osteoporose são:
+
+Doenças endócrinas, como diabetes ou hiperparatireoidismo;
+Deficiência de cálcio e/ou vitamina D;
+Sedentarismo;
+Menopausa;
+Alimentação inadequada;
+Tabagismo;
+Anorexia nervosa;
+Alcoolismo;
+Uso de alguns tipos de medicamentos;
+Deficiência na produção de hormônios.
+Além disso, algumas doenças também podem aumentar o risco do desenvolvimento da osteoporose, como câncer, HIV, artrite reumatoide, hemofilia, insuficiência renal e talassemia.</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>A osteoporose é uma doença silenciosa e que não causa sintomas na maioria das vezes. No entanto, a medida em que os ossos ficam mais frágeis, alguns sintomas que podem surgir são:
+
+Dor na coluna;
+Diminuição de, pelo menos, 2 cm de altura;
+Formigamento nas pernas;
+Postura curvada.
+Por ser muitas vezes assintomática, a osteoporose geralmente é identificada através de exames feitos após a ocorrência de fraturas, por exemplo.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>O tratamento para a osteoporose deve ser feito sob a orientação do ortopedista, ou clínico geral, e tem como objetivo diminuir a dor, melhorar a qualidade de vida da pessoa, diminuir o risco de fraturas e complicações.
+
+O tratamento da osteoporose pode incluir:
+
+</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>Anticorpos monoclonais,  como o denosumabe e o romosozumab, medicamentos que são indicados principalmente para mulheres na pós menopausa e homens com alto risco de fraturas, ou quando outros tratamentos não foram eficazes;
+
+Além disso, o médico também pode indicar o uso de teriparatida, que é um medicamento indicado para o tratamento da osteoporose em mulheres na pós-menopausa e em homens com elevado risco de fraturas.</value>
+  </data>
+  <data name="label22.Text" xml:space="preserve">
+    <value>Manter uma alimentação saudável e adequada, incluindo alimentos ricos em cálcio e vitamina D, como leite, iogurte, brócolis e amêndoas, é fundamental para aumentar a absorção de cálcio e fósforo, melhorando a saúde dos ossos.</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>A reposição hormonal com estrogênio pode ser indicada principalmente para mulheres na menopausa, para evitar a perda de massa óssea e fraturas. Já a reposição hormonal com testosterona pode ser indicada para homens que, além da osteoporose, também apresentam baixos níveis desse hormônio no organismo.</value>
+  </data>
+  <data name="label24.Text" xml:space="preserve">
+    <value>Praticar exercícios físicos de forma regular, como caminhada, dança e hidroginástica, ajudam a fortalecer os músculos e articulações, prevenindo fraturas e aliviando os sintomas da osteoporose.
+
+Dentre os melhores exercícios para o tratamento da doença estão:
+Caminhada;
+Dança;
+Subir escadas;
+Musculação;
+Ginastica;
+Pilates
+</value>
+  </data>
+  <metadata name="kryptonPalette1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>

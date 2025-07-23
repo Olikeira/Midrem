@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label6.Text" xml:space="preserve">
+    <value>A insuficiência cardíaca acontece quando o coração tem dificuldade para bombear o sangue para todo o corpo, gerando sintomas como cansaço, tosse noturna e inchaço nas pernas ao final do dia. 
+
+A insuficiência cardíaca é mais comum em pessoas que possuem pressão alta, já que nesses casos o coração precisa fazer mais força para bombear o sangue, provocando a dilatação do coração ao longo do tempo. No entanto, a insuficiência também pode acontecer devido ao estreitamento das artérias, o que dificulta a passagem do sangue e distribuição pelo corpo.
+
+A insuficiência cardíaca não tem cura, mas pode ser controlada com o uso de remédios orais e cuidados com a alimentação, além de consultas regulares no cardiologista.</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Os principais sintomas de insuficiência cardíaca são:
+
+Cansaço progressivo que se inicia após fazer esforços, como subir escadas ou caminhar, mas que com o tempo pode aparecer até mesmo em repouso;
+Sensação de falta de ar frequente;
+Dor ou desconforto no peito;
+Tosse excessiva durante a noite;
+Inchaço nas pernas, tornozelos ou pés;
+Palpitações e calafrios;
+Inchaço abdominal;
+Palidez;
+Dificuldade para dormir com cabeceira baixa.
+
+Quando a pessoa apresenta estes sintomas, deve procurar um cardiologista para que sejam feitos exames que possam avaliar o coração e, assim, confirmar ou descartar o diagnóstico, iniciando o tratamento adequado.</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>A insuficiência cardíaca pode acontecer como consequência de qualquer problema que interfira com o funcionamento do coração e no transporte de oxigênio para o corpo. Na maioria das vezes a insuficiência cardíaca acontece devido à doença coronariana, que é caracterizada pelo estreitamento dos vasos sanguíneos, havendo dificuldade na passagem de sangue e diminuição da quantidade de oxigênio de chega aos órgãos.
+
+Além disso, no caso da cardiomegalia, popularmente conhecido como coração grande, é possível também haver insuficiência cardíaca, isso porque devido ao aumento do órgão, o sangue passa a ficar acumulado em seu interior, não havendo distribuição adequada de sangue e oxigênio para os órgãos e tecidos.
+
+As alterações nos batimentos cardíacos ou no processo de contração e relaxamento do coração também podem levar à insuficiência cardíaca, principalmente em pessoas mais velhas e/ou que possuem hipertensão. </value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>   É importante que o tipo de insuficiência cardíaca seja identificado para que o tratamento seja adaptado e iniciado logo em seguida, para evitar o agravamento e o surgimento de complicações. De acordo com a evolução dos sintomas, a insuficiência cardíaca pode ser classificada em:</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>O tratamento para insuficiência cardíaca deve ser orientado por um cardiologista e, normalmente, inclui o uso de remédios para baixar a pressão, como Lisinopril ou Captopril, remédios para o coração, como Digoxina ou Amiodarona, ou remédios diuréticos, como Furosemida ou Espironolactona. Veja uma lista mais completa dos principais remédios usados para tratar a insuficiência cardíaca.
+
+Além disso, também é recomendado que o paciente diminua o consumo de sal e de líquidos e faça exercício físico regular, sob orientação do cardiologista, como caminhar, fazer hidroginástica ou andar de bicicleta, por exemplo.
+
+Nos casos mais graves, em que o paciente não faz o tratamento de forma adequada ou quando o problema é identificado muito tarde, pode ser necessário fazer uma cirurgia para fazer transplante de coração.</value>
+  </data>
+  <metadata name="kryptonPalette1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>

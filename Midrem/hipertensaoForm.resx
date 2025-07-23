@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="txt1.Text" xml:space="preserve">
+    <value>        Os remédios para pressão alta, chamados de anti-hipertensivos, são indicados para baixar a pressão e mantê-la controlada, com valores abaixo de 14 por 9 (140 x 90 mmHg), pois a pressão alta pode causar complicações como infarto, insuficiência cardíaca, angina, problemas renais ou derrame cerebral, por exemplo. </value>
+  </data>
+  <data name="txt3.Text" xml:space="preserve">
+    <value>        Os remédios para pressão alta devem sempre ser indicados pelo cardiologista e deve-se fazer acompanhamento médico com frequência para verificar se o tratamento está reduzindo a pressão arterial. Além disso, o médico também deve indicar a diminuição do consumo de sal e a prática de exercícios físicos, como caminhada, por exemplo, pelo menos 3 vezes por semana para ajudar a diminuir a pressão arterial.</value>
+  </data>
+  <data name="txt2.Text" xml:space="preserve">
+    <value>      Existe uma variedade de medicamentos que podem ser usados para tratar a pressão alta, como diuréticos, bloqueadores adrenérgicos ou vasodilatadores, por exemplo, que devem ser indicados pelo cardiologista de forma individualizada de acordo com a gravidade da doença ou dos riscos de complicações. Em alguns casos, esses remédios podem ser utilizados em combinação. </value>
+  </data>
+  <metadata name="kryptonPalette1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="txtDiu.Text" xml:space="preserve">
+    <value>Os diuréticos são remédios que atuam aumentando a eliminação de sal pela urina, pois o sal contém muito sódio que causa retenção de água pelo corpo. Quando o sal é eliminado, leva junto a água do sangue, diminuindo a quantidade de líquido nas veias e artérias e por isso diminui a pressão arterial e o inchaço causado pela pressão alta.
+
+Existem várias classes de diuréticos, sendo que os principais remédios indicados pelos médicos são clortalidona, hidroclorotiazida, indapamida, furosemida, bumetanida, espironolactona ou amilorida.
+
+Em alguns casos, esses diuréticos podem ser utilizados junto com outros remédios para pressão alta, dependendo da avaliação e da indicação do médico.</value>
+  </data>
+  <data name="txtalfaA.Text" xml:space="preserve">
+    <value>Os remédios alfa-agonistas de ação central agem diretamente no cérebro nas áreas que controlam a pressão arterial e, assim, promovem o relaxamento dos vasos sanguíneos permitindo com que o sangue circule com mais facilidade, o que reduz a pressão alta. 
+
+Os principais medicamentos dessa classe de anti-hipertensivos são metildopa, clonidina, guanabenzo, moxonidina e rilmenidina.
+
+Reduzem a pressão arterial através de um mecanismo que lembra um pouco o dos bloqueadores adrenérgicos. Ao estimular certos receptores no tronco cerebral, esses agonistas inibem os efeitos da rede simpática do sistema nervoso. Esses medicamentos raramente são usados ​​hoje em dia.</value>
+  </data>
+  <data name="txtBloqadre.Text" xml:space="preserve">
+    <value>Os bloqueadores adrenérgicos incluem duas classes de remédios para pressão alta, os beta-bloqueadores como propranolol, atenolol, carvedilol, metoprolol e nebivolol, e os alfa-bloqueadores como doxazosina, prazosina e terazosina.
+
+Os beta bloqueadores, geralmente são indicados para pessoas jovens ou que tiveram ataque cardíaco, pois ajudam o coração a bater mais devagar e com menos força, o que diminui a pressão arterial. Além disso, também ajudam a abrir as veias e artérias para melhorar o fluxo sanguíneo.
+
+Já os alfa-bloqueadores, ajudam a diminuir a pressão arterial porque impede o hormônio norepinefrina aperte os músculos das paredes das artérias e veias, o que faz com que os vasos sanguíneos relaxem, melhorando o fluxo de sangue no corpo e reduzindo a pressão arterial.</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Os vasodilatadores diretos promovem o relaxamento dos vasos sanguíneos, evitando que se contraiam, o que faz com que o sangue circule de forma mais fácil pelos vasos e o coração não precise fazer muita força para bombear o sangue para o corpo, e por isso, ajudam a diminuir a pressão arterial. Os principais vasodilatadores indicados pelos médicos são a hidralazina e a minoxidil.
+
+O minoxidil é usado por via oral para o tratamento da pressão alta que não melhora com outros medicamentos e, geralmente, é usado junto com um diurético ou um betabloqueador. Esse remédio tem como efeito colateral aumentar a quantidade de pelos no corpo e, por isso, também é indicado por dermatologistas para o tratamento queda de cabelo e calvície, no entanto, nestes casos, o uso é tópico, devendo-se usar a solução de minoxidil diretamente no couro cabeludo. </value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Os bloqueadores dos canais de cálcio reduzem a pressão arterial, porque impedem que o cálcio entre nas células do coração e das artérias, permitindo que os vasos sanguíneos relaxem e se abram, o que melhora o fluxo sanguíneo no corpo e reduz o esforço do coração para bombear o sangue.
+
+Os principais medicamentos dessa classe de anti-hipertensivos são anlodipino, nifedipino, felodipino, nitrendipino, manidipino, lercanidipino, levanlodipino, lacidipino, isradipino, nisoldipino e nimodipino.
+
+Alguns bloqueadores dos canais de cálcio, como verapamil e diltiazem, têm o benefício adicional de diminuir a frequência cardíaca, o que pode reduzir ainda mais a pressão arterial, aliviar a dor no peito e controlar o batimento cardíaco irregular.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Os inibidores da enzima conversora da angiotensina impedem que seja produzida angiotensina, um hormônio que causa estreitamento dos vasos sanguíneos e aumenta a pressão sanguínea, forçando o coração a trabalhar mais. Ao impedir a produção desse hormônio, essa classe de anti-hipertensivo ajuda a relaxar as veias e artérias e reduzir a pressão arterial.
+
+Os principais inibidores da enzima conversora da angiotensina são captopril, enalapril, ramipril e lisinopril, que podem causar tosse seca como efeito colateral. 
+
+Uma outra classe de medicamentos com efeitos semelhantes a estes, porém sem o efeito  colateral de tosse seca, são os antagonistas do receptor da angiotensina que reduzem a pressão arterial por impedirem os efeitos do hormônio angiotensina,e incluem os medicamentos losartana, valsartana, candesartana e telmisartana.</value>
+  </data>
+</root>

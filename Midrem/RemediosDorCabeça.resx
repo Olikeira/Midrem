@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Paracetamol é um analgésico e antipirético, sendo indicado para a alívio da dor de intensidade leve a moderada, incluindo dor de cabeça, enxaqueca, dor músculo esquelética, cólicas menstruais, dor de garganta, dor de dente, dor pós-procedimentos odontológicos, dor e febre após vacinação, e dor de osteoartrite.
+
+Estes medicamentos são indicados, em bebês e crianças, para a redução da febre e para o alívio temporário de dores leves a moderadas, tais como: dores associadas a gripes e resfriados comuns, dor de cabeça, dor de dente e dor de garganta.
+
+Quais as contraindicações do Paracetamol?
+Este medicamento não deve ser usado em caso de hipersensibilidade ao paracetamol ou a qualquer outro componente da fórmula.</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>A dipirona é indicada para o tratamento da dor e da febre em adultos, adolescentes, crianças ou bebês com mais de 3 meses de vida. Veja como identificar e medir a febre em crianças e adultos.
+
+é um remédio analgésico e antitérmico, que age reduzindo a produção de substâncias no corpo responsáveis por causar dor ou febre e, por isso, é indicado para baixar a febre e aliviar a dor, normalmente provocadas por gripes e resfriados, por exemplo.
+
+Esse remédio pode ser encontrado em farmácias ou drogarias na forma de gotas, comprimido, xarope ou supositórios, com o nome comercial Novalgina, na forma de genérico como dipirona monoidratada ou dipirona sódica, ou com os nomes similares Anador, Maxalgina, Lisador dip, Magnopyrol ou Dipimed, por exemplo e deve sempre ser usada com indicação e orientação médica.</value>
+  </data>
+  <metadata name="kryptonPalette1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Este é um tipo de dor de cabeça causada pela rigidez dos músculos do pescoço, costas ou couro cabeludo, que pode ser causado por uma má postura, estresse, ansiedade ou má posição durante o sono.
+
+Os sintomas mais comuns da cefaleia tensional são dor leve a moderada, em forma de pressão, como se tivesse um capacete na cabeça, que afeta os dois lados na nuca ou na testa e sensibilidade excessiva nos ombros, pescoço e couro cabeludo e à luz e ao ruído. A dor de cabeça tensional não causa náuseas nem piora com a atividade física.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Para aliviar a dor de cabeça tensional, deve-se tentar relaxar fazendo uma massagem no couro cabeludo, tomar um banho quente ou fazer alguma atividade, por exemplo. 
+
+Se isto não resultar, pode ser necessário tomar remédios analgésicos, como paracetamol, ibuprofeno ou aspirina, por exemplo.</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>A enxaqueca caracteriza-se por uma dor de cabeça intensa e pulsante, que pode ser acompanhada de náuseas, vômitos, tonturas e sensibilidade à luz solar.
+
+Este tipo de dor de cabeça pode ter uma intensidade moderada a severa e pode durar de alguns minutos a horas, podendo, em alguns casos, permanecer durante 72 horas. Geralmente incide mais sobre um lado da cabeça e os sintomas podem ser incapacitantes ou agravar-se, podendo prejudicar a visão e causar sensibilidade a certos cheiros e dificuldade de concentração.</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Os remédios mais usados para tratar a enxaqueca são analgésicos e anti-inflamatórios, como o paracetamol, ibuprofeno ou aspirina, que ajudam a aliviar a dor em algumas pessoas e medicamentos que causam constrição dos vasos sanguíneos e bloqueiam a dor, como é o caso dos triptanos, como o Zomig, Naramig ou Sumax, por exemplo.
+
+Para as pessoas que sentem enjoos e têm vômitos, podem tomar antieméticos como a metoclopramida, por exemplo.</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>A sinusite caracteriza-se por uma inflamação dos seios nasais, que na maior parte das vezes causa dor de cabeça ou na face, que piora quando se baixa a cabeça ou a pessoa se deita.
+
+Além da dor de cabeça causada pela sinusite, podem-se manifestar outros sintomas, como dor ao redor do nariz e em volta dos olhos, corrimento e congestão nasal, tosse, febre e mau hálito.</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>Para tratar a sinusite e aliviar a dor de cabeça, podem ser usados remédios anti-histamínicos, como a loratadina ou cetirizina, por exemplo, descongestionantes como a fenilefrina e analgésicos como o paracetamol, por exemplo.
+
+Caso se desenvolva uma infecção, pode ser necessário tomar antibiótico.</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>A cefaleia em salvas é uma doença rara, que se caracteriza por uma dor de cabeça muito forte e lancinante, mais forte que a enxaqueca, que atinge apenas um lado da face e o olho, e surge maior parte das vezes durante o sono, interrompendo-o na maior parte das vezes. A dor pode ser muito intensa e repetir-se várias vezes ao longo do dia
+
+Outros sintomas que podem surgir durante uma crise são corrimento nasal, inchaço da pálpebra e vermelhidão e lacrimejamento do olho do mesmo lado da dor.</value>
+  </data>
+  <data name="label20.Text" xml:space="preserve">
+    <value>Geralmente a doença não tem cura e os tratamentos não são muito eficazes, nem solucionam as crises, apenas as atenuam ou diminuem a sua duração. Os remédios mais usados são anti-inflamatórios não esteroides e analgésicos fortes, como os opioides e máscara de oxigênio a 100% nos momentos de crise.
+
+Além destes tipos de dor de cabeça, ela também pode surgir devido a causas como alterações hormonais, hipertensão ou lesões na cabeça.</value>
+  </data>
+</root>

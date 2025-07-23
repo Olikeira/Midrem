@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C2649DD0-D3D4-47BE-9CAC-19CC2532765D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>n_sei_mais_o_que_fazer</RootNamespace>
+    <AssemblyName>Midrem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\lucas\OneDrive\Documentos\midremV10\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>15</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A1CADD91BB75EA2AC153CE12ED36A3D729D21266</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>n sei mais o que fazer_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>pill logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Docking">
+      <HintPath>..\..\..\..\Downloads\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Navigator">
+      <HintPath>..\..\..\..\Downloads\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Navigator.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Ribbon">
+      <HintPath>..\..\..\..\Downloads\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\..\..\Downloads\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Workspace">
+      <HintPath>..\..\..\..\Downloads\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Workspace.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cortesform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cortesform.Designer.cs">
+      <DependentUpon>cortesform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diabtipo1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diabtipo1.Designer.cs">
+      <DependentUpon>Diabtipo1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diabtipo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diabtipo2.Designer.cs">
+      <DependentUpon>Diabtipo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DisfForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisfForm.Designer.cs">
+      <DependentUpon>DisfForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoresTipos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DoresTipos.Designer.cs">
+      <DependentUpon>DoresTipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="engasgamentoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="engasgamentoForm.Designer.cs">
+      <DependentUpon>engasgamentoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="engasgamentoPS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="engasgamentoPS.Designer.cs">
+      <DependentUpon>engasgamentoPS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hipertensaoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hipertensaoForm.Designer.cs">
+      <DependentUpon>hipertensaoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfartoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfartoForm.Designer.cs">
+      <DependentUpon>InfartoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="infBactérias.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="infBactérias.Designer.cs">
+      <DependentUpon>infBactérias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Infecções.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Infecções.Designer.cs">
+      <DependentUpon>Infecções.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inffungos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="inffungos.Designer.cs">
+      <DependentUpon>inffungos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inflamaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inflamaForm.Designer.cs">
+      <DependentUpon>inflamaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="infparasitas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="infparasitas.Designer.cs">
+      <DependentUpon>infparasitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="infvirus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="infvirus.Designer.cs">
+      <DependentUpon>infvirus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insufCardio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insufCardio.Designer.cs">
+      <DependentUpon>insufCardio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OsteoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OsteoForm.Designer.cs">
+      <DependentUpon>OsteoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paradaCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paradaCard.Designer.cs">
+      <DependentUpon>paradaCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConvulsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConvulsForm.Designer.cs">
+      <DependentUpon>ConvulsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrimeirosSocorros.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PrimeirosSocorros.Designer.cs">
+      <DependentUpon>PrimeirosSocorros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="doresusuario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="doresusuario.Designer.cs">
+      <DependentUpon>doresusuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="queimaduras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="queimaduras.Designer.cs">
+      <DependentUpon>queimaduras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemediosDorCabeça.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemediosDorCabeça.Designer.cs">
+      <DependentUpon>RemediosDorCabeça.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VidMassagemCardiaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VidMassagemCardiaca.Designer.cs">
+      <DependentUpon>VidMassagemCardiaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VidMassagemCardiaca2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VidMassagemCardiaca2.Designer.cs">
+      <DependentUpon>VidMassagemCardiaca2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="cortesform.resx">
+      <DependentUpon>cortesform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diabtipo1.resx">
+      <DependentUpon>Diabtipo1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diabtipo2.resx">
+      <DependentUpon>Diabtipo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisfForm.resx">
+      <DependentUpon>DisfForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoresTipos.resx">
+      <DependentUpon>DoresTipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="engasgamentoForm.resx">
+      <DependentUpon>engasgamentoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="engasgamentoPS.resx">
+      <DependentUpon>engasgamentoPS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hipertensaoForm.resx">
+      <DependentUpon>hipertensaoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfartoForm.resx">
+      <DependentUpon>InfartoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infBactérias.resx">
+      <DependentUpon>infBactérias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Infecções.resx">
+      <DependentUpon>Infecções.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inffungos.resx">
+      <DependentUpon>inffungos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inflamaForm.resx">
+      <DependentUpon>inflamaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infparasitas.resx">
+      <DependentUpon>infparasitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infvirus.resx">
+      <DependentUpon>infvirus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insufCardio.resx">
+      <DependentUpon>insufCardio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OsteoForm.resx">
+      <DependentUpon>OsteoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paradaCard.resx">
+      <DependentUpon>paradaCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConvulsForm.resx">
+      <DependentUpon>ConvulsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrimeirosSocorros.resx">
+      <DependentUpon>PrimeirosSocorros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="doresusuario.resx">
+      <DependentUpon>doresusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="queimaduras.resx">
+      <DependentUpon>queimaduras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemediosDorCabeça.resx">
+      <DependentUpon>RemediosDorCabeça.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VidMassagemCardiaca.resx">
+      <DependentUpon>VidMassagemCardiaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VidMassagemCardiaca2.resx">
+      <DependentUpon>VidMassagemCardiaca2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="n sei mais o que fazer_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fds121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mkd logo texto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mkd logo texto 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mkd logo 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta branca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta branca 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seta branca 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mkd logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxMSVidCtlLib">
+      <Guid>{B0EDF154-910A-11D2-B632-00C04F79498E}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MSVidCtlLib">
+      <Guid>{B0EDF154-910A-11D2-B632-00C04F79498E}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reanimação.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diabetes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diabotes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diabotes2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reitoria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tensional.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enxaqueca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cefaleia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinusite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pill logo.ico" />
+    <Content Include="pilula.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
